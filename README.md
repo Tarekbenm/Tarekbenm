@@ -1,49 +1,88 @@
-# 👋 Salut, je suis Tarek
+# Tarek Ben Mohamed
 
-Bienvenue sur mon portfolio GitHub !  
-Je suis passionné par la **Data Science**, le **Machine Learning** et l’**analyse de données**.  
-J’aime explorer les données, en tirer des enseignements et construire des solutions basées sur les données.
+Data professional with a background in **Data Analysis and Data Management**, currently transitioning toward a **Data Engineer role**.
 
----
+My projects reflect a progressive evolution across the data spectrum:
+- data analysis and visualization,
+- applied data science and machine learning,
+- and more recently, data engineering and pipeline design.
 
-## 🚀 Projets en vedette
-
-### 🌧️ [Prédiction de la pluie en Australie](https://github.com/Tarekbenm/projet_meteo_australie)
-> Classification binaire pour prédire s’il pleuvra demain à partir de données météorologiques australiennes.  
-> 📊 Python, pandas, scikit-learn, matplotlib
-
-### 🧑‍💼 [Analyse des performances RH](https://github.com/Tarekbenm/HR_Performance_Analysis)
-> Étude des performances des employés à l’aide de Python, Pandas et visualisations.  
-> 📈 Nettoyage de données, exploration, KPI RH
-
-### 🏪 [Superstore - Analyse des performances commerciales](https://github.com/Tarekbenm/superstore-performance-analysis)
-> Analyse des ventes d'une entreprise à partir de données Superstore.  
-> 📊 Python, visualisation, analyse descriptive
-
-### 📍 [Analyse des départements](https://github.com/Tarekbenm/analyse-performance-departements)
-> Étude comparative entre départements via des indicateurs de performance.
-
-### ⚽ [Analyse des performances du Pau FC](https://github.com/Tarekbenm/analyse-performance-pau-fc)
-> Analyse de données sportives : statistiques de match, tendances et performances.
-
-### 🌐 [Streamlit Quest](https://github.com/Tarekbenm/streamlit-quest)
-> Application interactive avec Streamlit.
+I focus on building **clean, structured, and realistic data projects**, with an emphasis on data quality, reproducibility, and business-oriented insights.
 
 ---
 
-## 🛠️ Compétences techniques
+## Selected Projects
 
-- **Langages** : Python, SQL
-- **Librairies** : pandas, numpy, scikit-learn, matplotlib, seaborn
-- **Outils** : Jupyter, Git, GitHub, Streamlit
-- **Méthodes** : classification, régression, visualisation, nettoyage de données
+### NYC Taxi – Data Engineering Pipeline
+**End-to-end data engineering project using NYC Yellow Taxi data**
+
+- Large-scale CSV ingestion and cleaning
+- Feature engineering for analytical use cases
+- Optimized storage using Parquet
+- SQL-ready datasets and modular pipeline design
+
+Technologies: Python, pandas, PyArrow, DuckDB, SQL  
+Repository: https://github.com/Tarekbenm/nyc-taxi-data-engineering
 
 ---
 
-## 🌐 Me retrouver ailleurs
+### Superstore – Business Performance Analysis
+**Commercial performance analysis on retail data**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarek-ben-mohamed-bb08662a6)
+- Data cleaning and transformation
+- KPI computation and descriptive analytics
+- Sales and profitability insights
+
+Technologies: Python, pandas, matplotlib  
+Repository: https://github.com/Tarekbenm/superstore-performance-analysis
 
 ---
 
-Merci de votre visite 🙌
+### HR Performance Analysis
+**Exploratory data analysis of employee performance metrics**
+
+- Data preparation and validation
+- HR-focused indicators and visual analysis
+- Business-oriented interpretation
+
+Technologies: Python, pandas, data visualization  
+Repository: https://github.com/Tarekbenm/HR_Performance_Analysis
+
+---
+
+## Additional Projects
+
+These projects illustrate my learning path and hands-on experience across different data domains:
+- Weather prediction (classification problem)
+- Department and organizational performance analysis
+- Sports data analysis
+- Interactive data applications (Streamlit)
+
+They are intentionally kept as part of my GitHub history to reflect continuous learning and progression.
+
+---
+
+## Technical Skills
+
+- **Languages**: Python, SQL  
+- **Data Processing**: pandas, numpy  
+- **Data Engineering**: ETL pipelines, Parquet, SQL analytics  
+- **Data Science**: scikit-learn, exploratory analysis  
+- **Visualization**: matplotlib, seaborn  
+- **Tools**: Git, GitHub, Jupyter Notebook, Streamlit
+
+---
+
+## Professional Objective
+
+To work on data-intensive projects involving:
+- large datasets,
+- robust data pipelines,
+- data quality and governance,
+- and analytics-ready data architectures.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/tarek-ben-mohamed-bb08662a6
