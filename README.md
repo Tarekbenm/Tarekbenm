@@ -10,6 +10,25 @@ My projects reflect a progressive evolution across the data spectrum:
 I focus on building **clean, structured, and realistic data projects**, with an emphasis on data quality, reproducibility, and business-oriented insights.
 
 ---
+### CMAPSS – Data Engineering Pipeline (Batch)
+
+End-to-end **Data Engineering pipeline** built on the NASA CMAPSS dataset (industrial engine sensor data).
+
+- Multi-file ingestion (train / test / RUL)
+- Explicit schema validation and standardization
+- Data quality checks (before / after cleaning)
+- Canonical data cleaning and sorting
+- Integration of RUL labels with integrity checks
+- Feature enrichment (max_cycle, RUL computation)
+- Optimized storage using Parquet
+- Modular pipeline-oriented codebase (production-style)
+
+**Technologies:** Python, Pandas, Parquet, Git  
+**Focus:** Data Engineering (no ML modeling)
+
+🔗 Repository: https://github.com/Tarekbenm/cmapss-data-engineering
+
+---
 
 ## Selected Projects
 
