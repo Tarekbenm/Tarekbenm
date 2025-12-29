@@ -10,6 +10,9 @@ My projects reflect a progressive evolution across the data spectrum:
 I focus on building **clean, structured, and realistic data projects**, with an emphasis on data quality, reproducibility, and business-oriented insights.
 
 ---
+
+## Selected Projects
+
 ### CMAPSS – Data Engineering Pipeline (Batch)
 
 End-to-end **Data Engineering pipeline** built on the NASA CMAPSS dataset (industrial engine sensor data).
@@ -26,11 +29,9 @@ End-to-end **Data Engineering pipeline** built on the NASA CMAPSS dataset (indus
 **Technologies:** Python, Pandas, Parquet, Git  
 **Focus:** Data Engineering (no ML modeling)
 
-🔗 Repository: https://github.com/Tarekbenm/cmapss-data-engineering
+Repository: https://github.com/Tarekbenm/cmapss-data-engineering
 
 ---
-
-## Selected Projects
 
 ### NYC Taxi – Data Engineering Pipeline
 **End-to-end data engineering project using NYC Yellow Taxi data**
