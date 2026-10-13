@@ -1,108 +1,126 @@
 # Tarek Ben Mohamed
 
-Data professional with a background in **Data Analysis and Data Management**, currently transitioning toward a **Data Engineer role**.
+**Data Analyst | Business Intelligence | Power BI | SQL | Python**
 
-My projects reflect a progressive evolution across the data spectrum:
-- data analysis and visualization,
-- applied data science and machine learning,
-- and more recently, data engineering and pipeline design.
+Based in Pau, France  
+Open to opportunities in Data Analytics, Business Intelligence and Analytics Engineering.
 
-I focus on building **clean, structured, and realistic data projects**, with an emphasis on data quality, reproducibility, and business-oriented insights.
+## About Me
 
----
+Data professional with over two years of experience at **TotalEnergies**, specializing in data analysis, business intelligence, automation and operational reporting.
 
-## Selected Projects
+My experience includes working with HPC environments, large-scale datasets, project lifecycle monitoring and the development of analytical solutions using Python, SQL and Power BI.
 
-### CMAPSS – Data Engineering Pipeline (Batch)
+I focus on building reliable data pipelines, designing meaningful KPIs and transforming complex data into actionable business insights.
 
-End-to-end **Data Engineering pipeline** built on the NASA CMAPSS dataset (industrial engine sensor data).
-
-- Multi-file ingestion (train / test / RUL)
-- Explicit schema validation and standardization
-- Data quality checks (before / after cleaning)
-- Canonical data cleaning and sorting
-- Integration of RUL labels with integrity checks
-- Feature enrichment (max_cycle, RUL computation)
-- Optimized storage using Parquet
-- Modular pipeline-oriented codebase (production-style)
-
-**Technologies:** Python, Pandas, Parquet, Git  
-**Focus:** Data Engineering (no ML modeling)
-
-Repository: https://github.com/Tarekbenm/cmapss-data-engineering
+My portfolio features professional projects covering business intelligence, data modeling, automation and data visualization.
 
 ---
 
-### NYC Taxi – Data Engineering Pipeline
-**End-to-end data engineering project using NYC Yellow Taxi data**
+## Professional Experience
 
-- Large-scale CSV ingestion and cleaning
-- Feature engineering for analytical use cases
-- Optimized storage using Parquet
-- SQL-ready datasets and modular pipeline design
+### TotalEnergies | Data Analyst / HPC Data Management
 
-Technologies: Python, pandas, PyArrow, DuckDB, SQL  
-Repository: https://github.com/Tarekbenm/nyc-taxi-data-engineering
+*June 2024 – August 2026 | Pau, France*
 
----
-
-### Superstore – Business Performance Analysis
-**Commercial performance analysis on retail data**
-
-- Data cleaning and transformation
-- KPI computation and descriptive analytics
-- Sales and profitability insights
-
-Technologies: Python, pandas, matplotlib  
-Repository: https://github.com/Tarekbenm/superstore-performance-analysis
+- Monitored and analyzed data across more than **240 HPC seismic projects**.
+- Developed Python, SQL and Power BI solutions for operational reporting and project monitoring.
+- Designed dashboards to track storage utilization, project lifecycle and resource allocation.
+- Contributed to storage optimization initiatives, including the removal of approximately **12 PB of obsolete data**.
+- Worked in Linux-based HPC environments involving large-scale datasets and technical infrastructure.
 
 ---
 
-### HR Performance Analysis
-**Exploratory data analysis of employee performance metrics**
+## Featured Projects
 
-- Data preparation and validation
-- HR-focused indicators and visual analysis
-- Business-oriented interpretation
+### [Boucherie Zagora — Sales Analytics & Business Intelligence](https://github.com/Tarekbenm/zagora-sales-analytics)
 
-Technologies: Python, pandas, data visualization  
-Repository: https://github.com/Tarekbenm/HR_Performance_Analysis
+**Python | Apache Airflow | Databricks | dbt | SQL | Power BI**
 
----
+End-to-end Business Intelligence solution developed for a retail business in Pau, France.
 
-## Additional Projects
+I initiated and led the project, from business requirements and data processing to analytical modeling and dashboard development.
 
-These projects illustrate my learning path and hands-on experience across different data domains:
-- Weather prediction (classification problem)
-- Department and organizational performance analysis
-- Sports data analysis
-- Interactive data applications (Streamlit)
+**Key achievements:**
 
-They are intentionally kept as part of my GitHub history to reflect continuous learning and progression.
+- Designed an automated data pipeline using Python and Apache Airflow.
+- Implemented data integration, transformations and quality checks.
+- Developed a Power BI dashboard covering revenue, sales trends, product categories and daily business activity.
+- Processed **11,065 receipts and 35,774 sales lines** over nine months.
+- Delivered analytical indicators to support commercial performance monitoring.
+
+[View repository](https://github.com/Tarekbenm/zagora-sales-analytics)
+
+### [HPC Project Traceability — Data Analytics & Automation](https://github.com/Tarekbenm/hpc-project-traceability)
+
+**Python | Linux | Data Processing | Data Quality | HPC**
+
+Independent portfolio demonstration inspired by my professional experience at TotalEnergies.
+
+The original professional work involved HPC project lifecycle monitoring, storage analysis, operational reporting and data traceability.
+
+This public demonstration uses synthetic datasets and independently developed code to illustrate selected analytical processes without exposing confidential company information.
+
+**Key features:**
+
+- Processing and comparison of storage snapshots.
+- Identification of new, growing, stagnant, cleaned and deleted projects.
+- Automated data processing and validation.
+- Structured outputs designed for further analysis and reporting.
+
+[View repository](https://github.com/Tarekbenm/hpc-project-traceability)
 
 ---
 
 ## Technical Skills
 
-- **Languages**: Python, SQL  
-- **Data Processing**: pandas, numpy  
-- **Data Engineering**: ETL pipelines, Parquet, SQL analytics  
-- **Data Science**: scikit-learn, exploratory analysis  
-- **Visualization**: matplotlib, seaborn  
-- **Tools**: Git, GitHub, Jupyter Notebook, Streamlit
+| Category | Technologies |
+|---|---|
+| Business Intelligence | Power BI, DAX, Excel, KPI Design, Data Visualization |
+| Data Analysis | Python, SQL, Pandas |
+| Data Modeling | dbt, SQL Transformations, Data Quality |
+| Data Engineering | Apache Airflow, PySpark, Databricks, ETL/ELT |
+| Databases | PostgreSQL, DuckDB, Snowflake |
+| Development & Tools | Linux, Docker, Git, GitHub |
 
 ---
 
-## Professional Objective
+## Additional Projects
 
-To work on data-intensive projects involving:
-- large datasets,
-- robust data pipelines,
-- data quality and governance,
-- and analytics-ready data architectures.
+**[Superstore Performance Analysis](https://github.com/Tarekbenm/superstore-performance-analysis)**  
+Sales performance analysis, profitability monitoring and business reporting.
+
+**[HR Performance Analysis](https://github.com/Tarekbenm/HR_Performance_Analysis)**  
+Workforce analytics, employee performance indicators and data visualization.
+
+**[NYC Taxi Data Engineering](https://github.com/Tarekbenm/nyc-taxi-data-engineering)**  
+Data ingestion, transformation and analytical dataset preparation.
+
+**[CMAPSS Data Engineering](https://github.com/Tarekbenm/cmapss-data-engineering)**  
+Industrial sensor data processing, transformation and data quality validation.
+
+---
+
+## Education & Training
+
+**Jedha Bootcamp** — Data Lead, RNCP Level 7 (2026)
+
+**Wild Code School** — Data Analyst, RNCP Level 6 (2024)
+
+---
+
+## Professional Interests
+
+- Business Intelligence and decision-support systems
+- Data Analytics and performance monitoring
+- Analytics Engineering and data modeling
+- Python automation and data quality
+- Sports Analytics
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/tarek-ben-mohamed-bb08662a6
+**LinkedIn:** [Tarek Ben Mohamed](https://www.linkedin.com/in/tarek-ben-mohamed-bb08662a6)
+
+**GitHub:** [github.com/Tarekbenm](https://github.com/Tarekbenm)
